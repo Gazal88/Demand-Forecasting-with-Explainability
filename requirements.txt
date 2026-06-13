@@ -1,0 +1,10 @@
+pandas
+numpy
+lightgbm
+shap
+matplotlib
+scikit-learn
+fastapi
+uvicorn
+joblib
+holidays
